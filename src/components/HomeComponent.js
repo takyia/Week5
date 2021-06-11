@@ -26,7 +26,7 @@ function RenderCard({item, isLoading, errMess}) {
             </Card>
         </FadeTransform>
     );
-}
+} 
 
 function Home(props) {
     return (
